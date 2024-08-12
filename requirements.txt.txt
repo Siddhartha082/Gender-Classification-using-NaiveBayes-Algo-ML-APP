@@ -1,4 +1,4 @@
 streamlit
-joblib
+git clone https://github.com/joblib/joblib.git
 time
 pillow
