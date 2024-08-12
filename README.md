@@ -13,6 +13,3 @@
 ![](images/gc_app04.png)
 
 
-#### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@[JCharisTech](https://jcharistech.com)
